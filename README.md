@@ -11,11 +11,13 @@ The experiment was developed iteratively across multiple versions. This reposito
 
 ## Repository Structure
 
+```
 paper_versions/
 ├── v4/
 ├── v6/
 ├── v10/
 └── v11/
+```
 
 
 Each version directory is a **self-contained JATOS study**, including:
@@ -68,7 +70,7 @@ No additional build steps are required.
 
 ## License
 
-
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
