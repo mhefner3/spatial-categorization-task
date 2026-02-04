@@ -43,7 +43,7 @@ Unless otherwise noted, analyses in the manuscript were conducted using these ve
 
 ## Recommended Version
 
-**Version 11 (`v11`)** is the recommended reference implementation for reuse or adaptation.
+**Version 11 (`v11`)** (experiment 4) is the recommended reference implementation for reuse or adaptation.
 
 ---
 
