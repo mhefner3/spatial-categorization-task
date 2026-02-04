@@ -32,10 +32,10 @@ Versions are intentionally kept separate to reflect differences in task structur
 
 ## Versions Included in the Paper
 
-- **v4** — Introduction of keypress responses and spatial congruency manipulation  
-- **v6** — Within-subject design with multiple task phases  
-- **v10** — Balanced multi-phase design reinstating congruency-confounded responses  
-- **v11** — Final refined version with completely split training and testing used as the primary reference implementation  
+- **v4** (experiment 1) — Introduction of keypress responses and spatial congruency manipulation  
+- **v6** (experiment 2) — Within-subject design with multiple task phases  
+- **v10** (experiment 3) — Balanced multi-phase design reinstating congruency-confounded responses  
+- **v11** (experiment 4) — Final refined version with completely split training and testing used as the primary reference implementation  
 
 Unless otherwise noted, analyses in the manuscript were conducted using these versions.
 
