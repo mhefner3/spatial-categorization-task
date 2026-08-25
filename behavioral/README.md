@@ -10,8 +10,6 @@ The experiments were developed iteratively throughout the project. This reposito
 
 ```text
 experiments/
-├── v4/
-├── v6/
 ├── v10/
 └── v11/
 ```
@@ -32,8 +30,6 @@ The experiments are intentionally kept separate to preserve the original impleme
 
 | Version | Description                                                                                                         |
 | ------- | ------------------------------------------------------------------------------------------------------------------- |
-| **v4**  | Introduction of keypress responses and spatial congruency manipulation.                                             |
-| **v6**  | Within-subject design incorporating multiple spatial learning phases.                                               |
 | **v10** | Balanced multi-phase design with congruent and incongruent response mappings.                                       |
 | **v11** | Final scanner-compatible behavioral implementation with fully separated spatial learning and categorization phases. |
 
@@ -41,7 +37,7 @@ The experiments are intentionally kept separate to preserve the original impleme
 
 ## Recommended Version
 
-For new users, **v11** is the recommended reference implementation. Earlier versions are retained to document the evolution of the experimental paradigm.
+For new users, **v11** is the recommended reference implementation. 
 
 ---
 
