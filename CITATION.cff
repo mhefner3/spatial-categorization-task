@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Spatial Category Learning"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: Hefner
+    given-names: Michelle
+    orcid: "https://orcid.org/0000-0002-5129-215X"
+
+repository-code: "https://github.com/mhefner3/spatial-category-learning"
+
+license: MIT
+
+abstract: >
+  Behavioral experiments, computational modeling, and fMRI analysis
+  code developed to investigate how structured spatial representations
+  influence category learning.
+
+keywords:
+  - computational neuroscience
+  - category learning
+  - spatial cognition
+  - cognitive science
+  - neural networks
+  - machine learning
+  - fMRI
