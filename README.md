@@ -22,8 +22,6 @@ fmri/
     preprocessing 
     First-level GLM analyses
 
-docs/
-    Conference abstracts
 ```
 
 ---
